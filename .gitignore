@@ -1,0 +1,13 @@
+# Qt Creator generated files
+build/
+*.pro.user
+*.pro.user.*
+
+# CMake generated files
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# OS generated files
+.DS_Store
+Thumbs.db

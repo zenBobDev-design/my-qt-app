@@ -11,3 +11,6 @@ CMakeFiles/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Qt Creater Configuration
+.qtcreator/
